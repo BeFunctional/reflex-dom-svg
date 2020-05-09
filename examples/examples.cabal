@@ -25,10 +25,10 @@ executable examples
                      , reflex-dom-core >= 0.5 
                      , lens >= 4.16.1 
                      , jsaddle
-                     , ghcjs-dom ^>= 0.9
+                     , ghcjs-dom >= 0.9
                      , time
                      , random
-                     , containers ^>= 0.5
+                     , containers >= 0.5
                      , reflex-dom-svg
 
   hs-source-dirs:      src
